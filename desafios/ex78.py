@@ -15,10 +15,10 @@ print('=-'*30)
 print(f'Voce digitou os valores {numeros}')
 print(f'O maior numero digitado foi {mai}') 
 for i, v in enumerate (numeros):
-    if numeros(i) == mai:
+    if v == mai:
         print(f'{i}... ',end='')
 print(f'O maior numero digitado foi {men} ',end='')
 for i, v in enumerate (numeros):
-    if numeros(v) == men:
+    if v == men:
         print(f'{i}... ',end='')
 print()

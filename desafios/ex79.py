@@ -7,3 +7,4 @@ while True:
 print('=-'*40)
 listnum.sort()
 print(f'Voce digitou os valores {listnum}')
+

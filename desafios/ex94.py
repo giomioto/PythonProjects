@@ -16,7 +16,7 @@ while True:
         resp = str(input('Quer continuar? [S/N] ')).upper()[0]
         if resp in 'SN':
             break
-        print('ERRO! Por favor, digite apenas S ou M.')
+        print('ERRO! Por favor, digite apenas S ou N.')
     if resp == 'N':
         break
 print('-='*30)

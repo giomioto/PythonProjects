@@ -1,4 +1,4 @@
-lanche = ('Hamburguer', 'Suco','Pizza','Pudim','Batata Frita')
+lanche = ('Hamburguer', 'Suco','Pizza','Pudim','Batata')
 
 #for comida in lanche:
     #print(f'Eu vou comer {comida}')
